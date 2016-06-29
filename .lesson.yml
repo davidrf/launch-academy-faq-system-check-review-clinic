@@ -1,0 +1,8 @@
+---
+title: "Launch Academy FAQ"
+type: "exercise"
+description: "Render a FAQ accordion using React"
+tags: "javascript, react, stateful components"
+ignore:
+- "node_modules/"
+- "launch-academy-faq.md"
